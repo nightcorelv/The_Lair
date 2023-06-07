@@ -1,0 +1,33 @@
+newmtl DoorFrame3x3:DoorFrameSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DoorFrame.png
+Ni 0.01
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl DoorFrame3x4:DoorFrameSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DoorFrame.png
+Ni 0.01
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl DoorFrameTwoWall:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DoorFrame.png
+Ni 0.01
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl door1:polySurface2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00

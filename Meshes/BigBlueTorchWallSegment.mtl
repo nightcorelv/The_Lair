@@ -1,0 +1,35 @@
+newmtl BigGreenTorchWallSegment:StonePillarWithTorchSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd PillarV2WithGTorch.png
+Ni 0.01
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Pillarv2Stone:StonePillarSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PillarV2Stone.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl StonePillarWithTorchBlueSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl WallEndStonePillar:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PillarV2Stone.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

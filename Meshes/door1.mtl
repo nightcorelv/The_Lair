@@ -1,0 +1,18 @@
+newmtl door1:phong1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd door1_phong1_color.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 100.00
+newmtl door1:phong2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd door1_phong2_color.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 100.00

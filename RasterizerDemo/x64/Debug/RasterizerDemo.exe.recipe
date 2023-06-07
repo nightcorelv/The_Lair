@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\RasterizerDemo.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\ComputeShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\CubeShader1.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\GeometryShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\ParticlePixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\particleUpdateShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\ParticleVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\PTUpdateRisingPT.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\PT_PixelShader2.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Arbete\GitHub\3D_Project\Shaders\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
